@@ -23,24 +23,29 @@ There is a module contains 2 functions. <br>
 - Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary of information about relation. <br> <br> <br>
 
 ### 3. Examples
-#### 0. First import
+#### 0. When you import MELKE very first
 > <img src="./image/example0.png" width="50%">
 
-If you import module very first time, Resources will be downloaded by init file.
+when you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
 
 #### 1. How to use
 <img src="./image/example1.png" width="70%">
 <br> <br>
+
 #### 2. Returned object of ExtractEntity
 <img src="./image/example2.png" width="70%">
 <br> <br>
+
 #### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
 <br> <br>
+
 #### 4. Structure of dictionary (ExtractEntity)
 <img src="./image/example4.png" width="70%">
 <br> <br>
+
 #### 5. Structure of dictionary (EntityRelation)
 <img src="./image/example5.png" width="70%">
 <br> <br>
+
