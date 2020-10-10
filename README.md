@@ -1,6 +1,5 @@
 # MELKE
 python package that extracts entities and relations from bio-text <br>
-
 <br> <br> <br>
 ## about MELKE
 ### 1. Installation
