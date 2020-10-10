@@ -16,10 +16,10 @@ EntityRelation(module): ExtractEntity, EntityRelation(functions)
 ##### 1. ExtractEntity
 Extract all of entities from input which is BIO-text. <br>
 It will return the result with python dictionary object. <br>
-Key is entity_id and value is dictionary of information of entity_id. <br> <br>
+Key is entity_id and value is dictionary of information about entity. <br> <br>
 ##### 2. EntityRelation
 Extract all of entities and relations from input which is BIO-text. <br>
 It will return the result with python dictionary object. <br>
-Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary information of that relation. <br> <br> <br>
+Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary of information about relation. <br> <br> <br>
 
 #### [3] Examples
