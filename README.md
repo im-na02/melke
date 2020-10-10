@@ -25,10 +25,10 @@ There is a module contains 2 functions. <br>
 ### 3. Examples
 #### 0. First import
 > <img src="./image/example0.png" width="50%">
-<br>
+
 If you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
-<br> <br>
+
 #### 1. How to use
 <img src="./image/example1.png" width="70%">
 <br> <br>
