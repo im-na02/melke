@@ -23,8 +23,11 @@ There is a module contains 2 functions. <br>
 - Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary of information about relation. <br> <br> <br>
 
 ### 3. Examples
+##### 0. First import
+![example0](./image/example0.png)
+
 ##### 1. How to use
-![example1](./image/example1.png){: width="600"}
+![example1](./image/example1.png)
 
 ##### 2. Returned object of ExtractEntity
 ![example2](./image/example2.png)
