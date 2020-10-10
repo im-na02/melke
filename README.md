@@ -28,7 +28,7 @@ There is a module contains 2 functions. <br>
 
 when you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
-<br>
+<br> <br>
 
 ### 1. How to use
 <img src="./image/example1.png" width="70%">
