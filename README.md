@@ -4,7 +4,7 @@ python package that extracts entities and relations from bio-text
 ### about MELKE
 #### 1. Installation
 You can install MELKE package with PIP INSTALL 
->> pip install melke
+> pip install melke
 
 #### 2. modules
 
