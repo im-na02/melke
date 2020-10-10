@@ -40,20 +40,33 @@ And you will see this message from your console.
 #### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
 
-##### key: entity_id
-##### value: dictionary of entity information
+#### 4. Structure of dictionary (ExtractEntity)
+<img src="./image/example4.png" width="70%">
+
+##### key
+- entity_id
+##### value (dictionary)
 - sent_id: sentent id
 - entity: entity
 - type: entity type
 - sentence: raw text
 - start: starting index of entity(word) from sentence
 - end: ending index of entity from sentence
-
-#### 4. Structure of dictionary (ExtractEntity)
-<img src="./image/example4.png" width="70%">
 <br>
 
 #### 5. Structure of dictionary (EntityRelation)
 <img src="./image/example5.png" width="70%">
+
+##### key
+- entity_1_entity_2 (connect first entity and second entity with under bar)
+##### value (dictionary)
+- sent_id: sentent id
+- entity_1: first entity
+- entity_type_1: type of first entity
+- entity_2: second entity
+- entity_type_2: type of second entity
+- negation: positive or negative
+- type: type of relation
+- sentence: raw text
 <br>
 
