@@ -24,16 +24,23 @@ There is a module contains 2 functions. <br>
 
 ### 3. Examples
 #### 0. First import
->> <img src="./image/example0.png" width="50%">
+> <img src="./image/example0.png" width="50%">
 <br>
 If you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
-
+<br> <br>
 #### 1. How to use
 <img src="./image/example1.png" width="70%">
-
+<br> <br>
 #### 2. Returned object of ExtractEntity
 <img src="./image/example2.png" width="70%">
-
-##### 3. Returned object of EntityRelation
+<br> <br>
+#### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
+<br> <br>
+#### 4. Structure of dictionary (ExtractEntity)
+<img src="./image/example4.png" width="70%">
+<br> <br>
+#### 5. Structure of dictionary (EntityRelation)
+<img src="./image/example5.png" width="70%">
+<br> <br>
