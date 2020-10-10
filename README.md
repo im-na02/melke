@@ -7,7 +7,7 @@ You can install MELKE package with PIP INSTALL
 <br>https://pypi.org/project/MELKE/1/
 > pip install MELKE
 
-<br> <br> <br>
+<br> <br>
 
 #### [2] Functions
 There is 1 module contains 2 functions.
