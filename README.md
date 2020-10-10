@@ -16,7 +16,7 @@ There is 1 module contains 2 functions. <br>
 ##### 1. ExtractEntity
 - Extract all of entities from input which is BIO-text. <br>
 - It will return the result with python dictionary object. <br>
-- Key is entity_id and value is dictionary of information about entity. <br> <br>
+- Key is entity_id and value is dictionary of information about entity. <br>
 ##### 2. EntityRelation
 - Extract all of entities and relations from input which is BIO-text. <br>
 - It will return the result with python dictionary object. <br>
