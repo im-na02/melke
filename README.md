@@ -40,6 +40,14 @@ And you will see this message from your console.
 #### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
 <br>
+##### key: entity_id
+##### value: dictionary of entity information
+- sent_id: sentent id
+- entity: entity
+- type: entity type
+- sentence: raw text
+- start: starting index of entity(word) from sentence
+- end: ending index of entity from sentence
 
 #### 4. Structure of dictionary (ExtractEntity)
 <img src="./image/example4.png" width="70%">
