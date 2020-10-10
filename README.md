@@ -1,6 +1,6 @@
 # MELKE
 python package that extracts entities and relations from bio-text <br>
-made by Min Song (Prof of Yonsei Univ, Dept of Library Science)
+
 <br> <br> <br>
 ## about MELKE
 ### 1. Installation
