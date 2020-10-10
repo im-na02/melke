@@ -10,7 +10,7 @@ You can install MELKE package with PIP INSTALL
 <br> <br>
 
 ### 2. Functions
-There is 1 module contains 2 functions. <br>
+There is a module contains 2 functions. <br>
 - Module: EntityRelation
 - Functions: ExtractEntity, EntityRelation
 ##### 1. ExtractEntity
@@ -23,3 +23,4 @@ There is 1 module contains 2 functions. <br>
 - Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary of information about relation. <br> <br> <br>
 
 ### 3. Examples
+![example1](./images/example1.png)
