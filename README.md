@@ -14,7 +14,7 @@ There is a module contains 2 functions. <br>
 - Module: EntityRelation
 - Functions: ExtractEntity, EntityRelation
 ### 1. ExtractEntity
-- Extract all of entities from input text abouy BIO. <br>
+- Extract all of entities from input text about BIO. <br>
 - It will return the result with python dictionary object. <br>
 - Key is entity_id and value is dictionary of information about entity. <br>
 ### 2. EntityRelation
