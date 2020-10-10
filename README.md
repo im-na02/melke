@@ -39,7 +39,7 @@ And you will see this message from your console.
 
 #### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
-<br>
+
 ##### key: entity_id
 ##### value: dictionary of entity information
 - sent_id: sentent id
