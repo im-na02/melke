@@ -26,7 +26,7 @@ There is a module contains 2 functions. <br>
 ### 0. When you import MELKE very first
 > <img src="./image/example0.png" width="50%">
 
-when you import module very first time, Resources will be downloaded by init file.
+when you import module very first time, Resources will be downloaded by init file. <br>
 And you will see this message from your console.
 <br> <br>
 
