@@ -40,6 +40,7 @@ And you will see this message from your console.
 
 ### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
+<br>
 
 ### 4. Structure of dictionary (ExtractEntity)
 <img src="./image/example4.png" width="70%">
