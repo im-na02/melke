@@ -24,20 +24,16 @@ There is a module contains 2 functions. <br>
 
 ### 3. Examples
 ##### 0. First import
-<img src="./image/example0.png" width="70%">
-![example0](./image/example0.png)
+>> <img src="./image/example0.png" width="70%">
 <br>
 If you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
 
 ##### 1. How to use
 <img src="./image/example1.png" width="70%">
-![example1](./image/example1.png)
 
 ##### 2. Returned object of ExtractEntity
 <img src="./image/example2.png" width="70%">
-![example2](./image/example2.png)
 
 ##### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
-![example3](./image/example3.png)
