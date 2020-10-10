@@ -31,21 +31,21 @@ And you will see this message from your console.
 
 #### 1. How to use
 <img src="./image/example1.png" width="70%">
-<br> <br>
+<br>
 
 #### 2. Returned object of ExtractEntity
 <img src="./image/example2.png" width="70%">
-<br> <br>
+<br>
 
 #### 3. Returned object of EntityRelation
 <img src="./image/example3.png" width="70%">
-<br> <br>
+<br>
 
 #### 4. Structure of dictionary (ExtractEntity)
 <img src="./image/example4.png" width="70%">
-<br> <br>
+<br>
 
 #### 5. Structure of dictionary (EntityRelation)
 <img src="./image/example5.png" width="70%">
-<br> <br>
+<br>
 
