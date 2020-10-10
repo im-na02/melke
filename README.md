@@ -25,6 +25,8 @@ There is a module contains 2 functions. <br>
 ### 3. Examples
 ##### 0. First import
 ![example0](./image/example0.png)
+If you import module very first time, Resources will be downloaded by __init__.py.
+And you will see this message from your console.
 
 ##### 1. How to use
 ![example1](./image/example1.png)
