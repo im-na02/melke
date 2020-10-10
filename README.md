@@ -23,16 +23,16 @@ There is a module contains 2 functions. <br>
 - Key is entity_1_entity_2 (connect first entity and second entity with under bar) and value is dictionary of information about relation. <br> <br> <br>
 
 ### 3. Examples
-##### 0. First import
->> <img src="./image/example0.png" width="70%">
+#### 0. First import
+>> <img src="./image/example0.png" width="50%">
 <br>
 If you import module very first time, Resources will be downloaded by init file.
 And you will see this message from your console.
 
-##### 1. How to use
+#### 1. How to use
 <img src="./image/example1.png" width="70%">
 
-##### 2. Returned object of ExtractEntity
+#### 2. Returned object of ExtractEntity
 <img src="./image/example2.png" width="70%">
 
 ##### 3. Returned object of EntityRelation
