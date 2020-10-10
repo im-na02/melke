@@ -24,7 +24,7 @@ There is a module contains 2 functions. <br>
 
 ### 3. Examples
 ##### 1. How to use
-![example1](./image/example1.png)
+![example1](./image/example1.png){: width="600"}
 
 ##### 2. Returned object of ExtractEntity
 ![example2](./image/example2.png)
